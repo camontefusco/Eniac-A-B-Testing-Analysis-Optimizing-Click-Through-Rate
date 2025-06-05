@@ -82,8 +82,8 @@ Increased top-of-funnel conversion
 
 Reduced cost by avoiding ineffective redesigns
 
-Dr. Carlos Montefusco Pereira
-Data Analyst | Experimental Design | A/B Testing
+Dr. Carlos Montefusco Pereira\
+Data Analyst | Experimental Design | A/B Testing\
 [linkedin.com/in/carlos-montefusco-pereira-dr-he-him-ab663221/] | [cmontefusco@gmail.com]
 
 📄 License
